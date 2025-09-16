@@ -1,0 +1,5 @@
+# app-ads.txt file for Gym Workout app
+# This file helps verify your app's ad inventory
+
+# Google AdMob
+google.com, pub-5684012269565919, DIRECT, f08c47fec0942fa0
