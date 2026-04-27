@@ -1,6 +1,6 @@
 # App Ads Text File
 
-This repository hosts the app-ads.txt file for the Gym Workout iOS app.
+This repository hosts the app-ads.txt file for the Gym Workout iOS app and Scan Sudoku iOS app.
 
 ## File Location
 The app-ads.txt file is available at: `https://hailemedhn.github.io/app-ads.txt`
