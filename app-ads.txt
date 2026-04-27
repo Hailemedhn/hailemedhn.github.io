@@ -1,4 +1,4 @@
-# app-ads.txt file for Gym Workout app and Scan Sudoku app
+# app-ads.txt file for Gym Workout app and Scan Sudoku apps
 # This file helps verify your app's ad inventory
 
 # Google AdMob
